@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "Device Registry Asset Endpoint Profiles",
+  "moduleDescription": "Intended AVM Terraform resource module for Microsoft.DeviceRegistry/assetEndpointProfiles.",
+  "canonicalType": "Microsoft.DeviceRegistry/assetEndpointProfiles",
+  "owners": [
+    "lonegunmanb"
+  ],
+  "telemetryIdPrefix": "46d3xtrf.res.22985ea"
+}
